@@ -1,3 +1,7 @@
 [submodule "bobagirl"]
 	path = bobagirl
 	url = https://github.com/4722794/bobagirl.git
+
+[submodule "bobaboy"]
+	path = bobaboy
+	url = https://github.com/4722794/bobaboy.git
