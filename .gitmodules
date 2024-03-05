@@ -1,0 +1,3 @@
+[submodule "bobagirl"]
+	path = bobagirl
+	url = https://github.com/4722794/bobagirl.git
