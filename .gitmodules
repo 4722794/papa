@@ -4,4 +4,4 @@
 
 [submodule "bobaboy"]
 	path = bobaboy
-	url = https://github.com/4722794/bobaboy.git
+	url = git@github.com:4722794/bobaboy.git
